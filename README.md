@@ -1,2 +1,0 @@
-# siyatraders
-my static site
